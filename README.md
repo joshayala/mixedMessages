@@ -13,3 +13,19 @@ The Purpose of this project is to build a message generator program that will ra
 + JavaScript
 + Node.js
 
+## How to use
+To run this program,
+1. Download the program locally 
+2. Using the Command Line/Terminal navigate to the program's directory 
+3. Enter the following into the Command Line/Terminal
+```
+$ cd../main.js
+$ node main.js
+```
+The program's output will be returned in the Command Line/Terminal.
+
+## Status
+The goals for the assignnment have been completed as of February 1, 2024, however additional components for this project are in the process of consideration.
+
+## License
+This Project has a MIT License.
